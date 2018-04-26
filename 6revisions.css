@@ -1,0 +1,239 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Calibri;
+}
+
+#container{
+    width: 1000px;
+    height: 1280px;
+    background-image: url("images/bg.png");
+    margin: 0 auto;
+}
+
+#logo{
+    margin-top: 75px;
+    margin-left: 55px;
+    width: 330px;
+    height: 126px;
+    float: left;
+}
+
+#menu{
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+    float: left;
+
+}
+
+#menu li{
+    list-style-type: none;
+    margin-left: 20px;
+    text-align: center;
+    color: saddlebrown;
+    text-decoration: none;
+    float: left;
+}
+
+#menu a{
+    font-size: 22px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: #873B11;
+    text-shadow: 2px 2px 2px black;
+    float: left;
+}
+
+#content{
+    margin-top: -20px;
+    margin-left: 65px;
+    width: 869px;
+    height: 976px;
+    background-image: url("images/content-bg.png");
+    float: left;
+}
+
+#textboven{
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 300px;
+    height: 150px;
+    float: left;
+}
+
+#textboven h2{
+    color: #e2e2e2;
+    text-transform: uppercase;
+    float: left;
+}
+
+#textboven p{
+    padding-top: 10px;
+    font-size: 14px;
+    color: #e2e2e2;
+    float: left;
+}
+
+#knopboven{
+    width: 102px;
+    height: 43px;
+    background-image: url("images/knop-boven.png");
+    float: left;
+    margin-top: 15px;
+
+}
+
+#knopboven h2{
+    color: #4b2416;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+
+
+#social-icons{
+    margin-top: -20px;
+    margin-left: 10px;
+    width: 462px;
+    height: 212px;
+    float: left;
+}
+
+#linkjes{
+    width: 40px;
+    height: 200px;
+    padding-left: 5px;
+    padding-top: 10px;
+    float:left;
+}
+
+#midden{
+    width: 869px;
+    height:200px;
+    margin-top: 30px;
+    float: left;
+}
+
+#textlinks {
+    width: 285px;
+    height: 130px;
+    margin-left: 110px;
+    margin-top: 10px;
+    color: #464646;
+    float: left;
+}
+
+#textlinks p{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+#textlinks a:link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#textrechts {
+    width: 285px;
+    height: 130px;
+    margin-left: 140px;
+    margin-top: 10px;
+    color: #464646;
+    float: left;
+}
+
+#textrechts p{
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+#textrechts a:link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#onder {
+    width: 815px;
+    height: 380px;
+    padding-left: 50px;
+    padding-top: 20px;
+    float: left;
+}
+#onder h2{
+    color: #545252;
+    float: left;
+}
+
+#onder p{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    width: 750px;
+    font-size: 14px;
+    float: left;
+}
+
+#afbeelding1{
+    width: 259px;
+    height: 148px;
+    background-image: url("images/1.png");
+    float: left;
+}
+
+#afbeelding2{
+    width: 259px;
+    height: 147px;
+    background-image: url("images/2.png");
+    float: left;
+}
+
+#afbeelding3{
+    width: 259px;
+    height: 146px;
+    background-image: url("images/3.png");
+    float: left;
+}
+
+#onder2{
+    width: 869px;
+}
+#knopmidden{
+    width: 246px;
+    height: 76px;
+    background-image: url("images/knop-midden.png");
+    margin-left: 320px;
+    float: left;
+}
+
+#knopmidden h2{
+    margin-top: 15px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #B0A7A7;
+}
+
+#knopmidden a:link{
+    text-decoration: none;
+    color: #B0A7A7;
+}
+
+#footer{
+    margin-top: 10px;
+    margin-left: 65px;
+    width: 869px;
+    height:20px;
+    float: left;
+}
+
+#footer p{
+    text-align: center;
+    color: #4a454a;
+    font-size: 13px;
+}
